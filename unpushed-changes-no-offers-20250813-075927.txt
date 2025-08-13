@@ -1,0 +1,5 @@
+Repository: beepmedia/mcp/mcp-dev/mcp-openai
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-openai
+
+  • Has uncommitted changes
+---
